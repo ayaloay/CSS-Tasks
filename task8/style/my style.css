@@ -1,0 +1,11 @@
+/* this is style */
+
+body {
+    min-width: 4000px;
+    min-height: 4000px;
+}
+
+.box {
+    width: 100%;
+    display: flex;
+}
